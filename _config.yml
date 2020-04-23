@@ -24,7 +24,7 @@ url:              'https://minicomp.github.io'
 baseurl:          '/wax'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
-
+theme:            'wax_theme'
 # ---------------------------------------------------------------
 # BUILD SETTINGS
 # ---------------------------------------------------------------
