@@ -10,7 +10,7 @@ source:
 order: '64'
 layout: gallery_item
 collection: visual-gallery
-thumbnail: "/img/derivatives/iiif/images/obj64/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/obj64/full/full/0/default.jpg"
-manifest: "/img/derivatives/iiif/obj64/manifest.json"
+thumbnail: /img/derivatives/simple/obj64/thumbnail.jpg
+full: /img/derivatives/simple/obj64/full.jpg
+manifest: 
 ---

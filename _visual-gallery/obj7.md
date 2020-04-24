@@ -10,7 +10,7 @@ source: http://www.ousmanesow.com
 order: '7'
 layout: gallery_item
 collection: visual-gallery
-thumbnail: "/img/derivatives/iiif/images/obj7/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/obj7/full/full/0/default.jpg"
-manifest: "/img/derivatives/iiif/obj7/manifest.json"
+thumbnail: /img/derivatives/simple/obj7/thumbnail.jpg
+full: /img/derivatives/simple/obj7/full.jpg
+manifest: 
 ---

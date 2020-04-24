@@ -10,7 +10,7 @@ source:
 order: '25'
 layout: gallery_item
 collection: visual-gallery
-thumbnail: "/img/derivatives/iiif/images/obj25/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/obj25/full/full/0/default.jpg"
-manifest: "/img/derivatives/iiif/obj25/manifest.json"
+thumbnail: /img/derivatives/simple/obj25/thumbnail.jpg
+full: /img/derivatives/simple/obj25/full.jpg
+manifest: 
 ---
