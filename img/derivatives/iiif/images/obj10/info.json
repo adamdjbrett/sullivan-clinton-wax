@@ -5,16 +5,16 @@ layout: none
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj10",
   "protocol": "http://iiif.io/api/image",
-  "width": 2501,
-  "height": 4331,
+  "width": 640,
+  "height": 364,
   "sizes": [
     {
-      "width": 2501,
-      "height": 4331
+      "width": 640,
+      "height": 364
     },
     {
       "width": 250,
-      "height": 433
+      "height": 142
     }
   ],
   "profile": [

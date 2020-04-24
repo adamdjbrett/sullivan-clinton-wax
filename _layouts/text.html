@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class='text-meta'>
+  <h1 class='text-title'>{{ page.title }}</h1>
+  {% assign author = site.authors | where: 'short_name', page.author | first %}
+  {% if author %}
+    <h2><a href="{{ author.url }}">{{ author.name }}</a></h2>
+  {% endif %}
+  <p class='text-date' >Published on
+    <time datetime='{{ page.publish_date | date_to_xmlschema }}'>
+    {{ page.publish_date | date: "%A, %B %d, %Y" }}
+    </time>
+  </p>
+</div>
+
+{{ content }}

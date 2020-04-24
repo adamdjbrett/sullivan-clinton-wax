@@ -1,48 +1,18 @@
 ---
 layout: page
-title: What is Wax?
+title: What is the Sullivan/Clinton Campaign?
 permalink: /about/
 ---
+**SULLIVAN/CLINTON** is an _essential_ journey. It's not for the faint of heart, nor the stubborn of mind. It's a major event in our history that's been way off the radar screen for far too long. More road signs than any NY event, yet not in our school books. But just as America undergoes historic changes, the lessons of Sullivan/ Clinton are more relevant than ever. So, read on below. Browse our 14 great photo GALLERIES. Enjoy the A/V Images & VIDEO. Search through the eye-popping info in our TEXTS. Jump into our MAP. And enter your own COMMENTS! Come learn - _at your own pace_. Do your Research here. Then come back again for more, as we _continually_ update this living website...
 
-**Wax helps you create digital exhibits.**   
-A digital exhibit is a collection of curated cultural artifacts—manuscripts, paintings, photographs, sculptures, etc—often accompanied by an explicit narrative or argument. Though Wax focuses on images and text, it could be used for sound or video collections with some customization.
+***
 
-**Wax is an extensible workflow based on minimal computing principles.**  
-Wax is hyper-aware of differences in resources, control and access around the world and close to home. As a result, it is purposefully lightweight: a few Ruby gems, some customizable UI components, good documentation and (hopefully soon!) recipes for creating, deploying, and maintaining custom digital exhibitions.
+The Sullivan-Clinton Campaign was the largest expedition ever before mounted against native North Americans. It targeted the Iroquois Six Nations Confederacy: specifically, the Seneca, Cayuga and Onondaga nations. Indeed, the Fall of Iroquoia is forever entwined with the Birth of the American Republic.
 
-**The exhibition sites created by Wax are static.**  
-This means they consist of flat HTML, CSS, and JavaScript files that don't need to communicate in a complex way back to a server. This makes them cheaper, safer, and generally easier to maintain.
+The year was 1779\. In the middle of the American Revolution, George Washington ordered two Generals, John Sullivan and James Clinton, and more than 6,200 men ' roughly 25% of the entire rebel army ' to clear-cut and burn these resisting or then neutral Iroquois nations from one of Earth's most fertile regions. They should 'not merely be overrun," Washington insisted, 'but destroyed.' And England, for its part, couldn't and/or wouldn't send forces enough to defend its Indian allies' homelands against the Sullivan-Clinton Campaign.
 
-**The skills needed to create Wax sites are agnostic.**  
-This means they are largely transferable for use in other digital projects. 'Learning Wax' does not mean learning how to use a platform. It involves learning the fundamentals of web development, data management, and [plain text editing](https://zapier.com/blog/beginner-ultimate-guide-markdown/) while leveraging a few great open source libraries and frameworks along the way.
+After five days in April and four weeks in September, almost all of Iroquoia was reduced to shattered hearths and fields of fire. According to Sullivan's Official Report, the army burned 40 towns and their surrounding fields; consuming at least 160,000 bushels of corn, 'with a vast quantity of vegetables of every kind.' A study (1969) by Anthony Wallace concluded that the Campaign destroyed 500 dwellings and nearly 1 million bushels of corn. Drawing on extensive records, a history (1978) by Allan Eckert estimated at least 50 towns and nearly 1,200 houses were burned. All this before the worst winter in recorded memory.
 
-**Wax keeps the collection presentation separate from the collection data.**  
-The Wax workflow starts with making standardized image files and metadata records and builds around them, handling canonical information, scholarly content, and site styling differently and deliberately. This makes it easier for you or others to share, reuse and reimagine your collection data in other contexts.
+While these figures vary, all show an earth-shaking defeat for America's native peoples that cannot truly be expressed in numbers; one that still lingers today - often hidden in plain sight or deep in people's souls. Against this background, a hard-won foothold in NY and Rebirth of Iroquoia have been well underway...
 
-## Who is Wax for?
-
-Wax was created for individuals and groups who either don't have or don't want to use a lot of resources to create their scholarly or cultural exhibits. It's best suited for folks who are willing to take on some technical responsibility in exchange for a lot of flexibility.
-
-For beginners, Wax has a relatively high, but general-purpose learning curve. To get the most out of Wax, you should have some familiarity with:
-
-- Using an interactive shell (e.g., Bash/Terminal) to install and interact with programs, files, and directories on your local computer.
-- Using Git and GitHub to version control and collaborate on projects.
-- Using Jekyll to generate static sites.
-- Creating and normalizing data files (e.g., CSV, JSON, YAML)
-- Using file-naming conventions and best practices.
-- Editing HTML, CSS, and some JavaScript.
-
-**However, Wax is also great for teaching or learning the skills above!** For examples of digital pedagogy via the creation of Wax exhibitions, check out [this workshop](https://www.columbia.edu/content/events/introduction-minimal-computing-humanities-building-exhibit-primary-sources-using-wax), [this GitHub repository](https://github.com/stylerevolution/stylerevolution.github.io), and [this custom Wax site](https://stylerevolution.github.io/).
-
-**Wax is also phenomenal for professionals who play a facilitating role**, such as Digital Scholarship Librarians or Coordinators. With some practice, Wax substantially reduces the time to production and post-production maintenance costs for you and your team. In the most common scenario, students, faculty, colleagues or any other collaborators just have to provide you with a properly formatted spreadsheet and the text for the exhibits. The extras are up to you.
-
-
-## So what does the Wax workflow *look like?*
-
-Below is a diagram to give you a zoomed-out view. In summary, you create a file of metadata records for your collection (in CSV, YAML, or JSON format), organize your collection image files, and put both in the Jekyll site folder. After updating your configuration, you run a few command line tasks to prepare the data and metadata for use by the Jekyll site. Jekyll then uses special layouts and Wax components to build the exhibit and spits them out as static pages ready to publish.
-
-From there, you can run tests on your site to catch errors and decide where and how to put it online or in offline media.
-
-<a href="{{ '/img/wax_workflow.jpg' | absolute_url }}">
-  <img src="{{ '/img/wax_workflow.jpg' | absolute_url }}"/>
-</a>
+So, keep scrolling! You'll _quickly_ get the whole picture, from Then to Now!

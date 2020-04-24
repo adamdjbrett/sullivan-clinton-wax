@@ -6,44 +6,72 @@ layout: none
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj1/manifest.json",
   "@type": "sc:Manifest",
   "label": "obj1",
-  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj1/full/250,/0/default.jpg",
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj1_00/full/250,/0/default.jpg",
   "viewingDirection": "left-to-right",
   "viewingHint": "individuals",
   "sequences": [
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/obj1.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/obj1_00.json",
       "@type": "sc:Sequence",
       "canvases": [
         {
           "@type": "sc:Canvas",
-          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj1.json",
-          "label": "front",
-          "width": 4001,
-          "height": 2704,
-          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj1/full/250,/0/default.jpg",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj1_00.json",
+          "label": "Page 1",
+          "width": 1674,
+          "height": 2000,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj1_00/full/250,/0/default.jpg",
           "images": [
             {
               "@type": "oa:Annotation",
-              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/obj1.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/obj1_00.json",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj1/full/full/0/default.jpg",
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj1_00/full/full/0/default.jpg",
                 "@type": "dcterms:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj1",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj1_00",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
-                "width": 4001,
-                "height": 2704
+                "width": 1674,
+                "height": 2000
               },
-              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj1.json"
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj1_00.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj1_01.json",
+          "label": "Page 2",
+          "width": 1100,
+          "height": 1250,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj1_01/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/obj1_01.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj1_01/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj1_01",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 550,
+                "height": 625
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj1_01.json"
             }
           ]
         }
       ]
     }
   ],
-  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj1/full/full/0/default.jpg"
+  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj1_00/full/full/0/default.jpg"
 }

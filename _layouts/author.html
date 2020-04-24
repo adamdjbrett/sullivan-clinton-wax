@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<h1>{{ page.name }}</h1>
+<h2>{{ page.position }}</h2>
+
+{{ content }}
+
+<h2>Posts</h2>
+<ul>
+  {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
+  {% for post in filtered_posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+<h2>Texts</h2>
+{% assign texts = site.texts | where: 'author', page.short_name %}
+<ul>
+  {% for text in texts %}
+    <li>
+      <a href='{{ text.url | absolute_url }}'>
+        {{ text.title }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>

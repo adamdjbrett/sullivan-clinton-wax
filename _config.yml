@@ -18,12 +18,12 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
-description:      'Minimal Exhibitions with Jekyll'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
-copyright:        'Example copyright org, 2019'
-logo:             '/assets/logo.png'
+title:            'Sullivan/Clinton'
+description:      'The Sullivan/Clinton Campaign Then and Now'
+url:              'https://demo.theological.me'
+baseurl:          ''
+copyright:        'Copyright Robert Spiegelman and Indigenous Values Initiative, 2000-2020'
+logo:             '/images/logo.png'
 theme:            'wax_theme'
 # ---------------------------------------------------------------
 # BUILD SETTINGS
@@ -62,15 +62,45 @@ kramdown:
 # ~> https://jekyllrb.com/docs/collections/
 
 collections:
+  authors:
+    output: true
   exhibits:
     output: true
-  qatar: # name of collection
+  texts:
+    output: true
+  visual-gallery: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'qatar_item' # the layout for the pages to use
+    layout: 'gallery_item' # the layout for the pages to use
     metadata:
-      source: 'qatar.csv' # path to the metadata file within `_data`
+      source: 'visual-gallery.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/qatar' # path to the directory of images within `_data`
+      source: 'raw_images/visual-gallery' # path to the directory of images within `_data`
+
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "exhibits"
+    values:
+      layout: "exhibit"
+  - scope:
+      path: ""
+      type: "texts"
+    values:
+      layout: "exhibit"
+  - scope:
+      path: ""
+      type: "visual-gallery"
+    values:
+      layout: "gallery_item"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -84,7 +114,12 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      qatar:
+      texts:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - title
+          - author
+      visual-gallery:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
           - artist
@@ -112,6 +147,10 @@ menu:
         link: '/credits/'
   - label: 'Exhibits'
     sub:
+      - label: 'Texts'
+        link: /texts/
+      - label: 'Object1'
+        link: /visual-gallery/obj1/
       - label: 'Inline Parallax Image'
         link: '/exhibits/a/'
       - label: 'Inline Image References'
