@@ -1,16 +1,11 @@
 ---
 layout: page
-title: 'EDUCATOR'S GUIDE TO SULLIVAN/CLINTON'
+title: 'EDUCATOR’S GUIDE TO SULLIVAN/CLINTON'
 date: '2005-06-13'
 author: bob-spiegelman
 permalink: /education/
 redirect_from: /education/index.html
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "fire"
 ---
-
-## Educator's Guide to Sullivan/Clinton
 
 Here's the Background, Events and Aftermath of Sullivan/Clinton! It provides teachers with ideas for lesson plans, homework assignments and student projects. Version 1.0 is on the webpage below. To download the low-cost PDF version, simply click the "Educator's Guide PDF v1.0" icon below on the left side. Future updates will be made available from this page.
 
@@ -26,6 +21,9 @@ Fall 2004
 **Developed By**  
 Dr. Robert Spiegelman
 
+## Table of Contents
+* Do not remove this line (it will not be displayed)
+{:toc}
 
 ## Part One: Teacher's Introduction
 

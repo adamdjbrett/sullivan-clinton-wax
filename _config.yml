@@ -139,28 +139,49 @@ search:
 menu:
   - label: 'About'
     sub:
-      - label: 'Wax'
+      - label: 'About'
         link: '/about/'
-      - label: 'Documentation'
-        link: 'https://minicomp.github.io/wiki/wax/'
+      - label: 'Bio'
+        link: '/bio/'
+      - label: 'Blog'
+        link: '/blog/'
       - label: 'Credits'
         link: '/credits/'
+      - label: 'Donations'
+        link: '/donations-projects/'
+      - label: 'Intro'
+        link: '/intro/'
+      - label: 'Mission'
+        link: '/Mission/'
+      - Label: 'Past Events'
+        link: '/past-events/'
+      - label: 'Products'
+        link: '/products/'
   - label: 'Exhibits'
     sub:
       - label: 'Texts'
         link: /texts/
+      - label: 'Maps'
+        link: /maps/
+      - label: 'Education'
+        link: /education/
       - label: 'Object1'
         link: /visual-gallery/obj1/
       - label: 'Inline Parallax Image'
         link: '/exhibits/a/'
       - label: 'Inline Image References'
         link: '/exhibits/b/'
+      - label: 'Links'
+        link: '/links/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
     link: '/search/'
   - label: 'Reuse'
     link: '/reuse/'
+  - label: 'Contact'
+    link: '/Contact/'
+
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS

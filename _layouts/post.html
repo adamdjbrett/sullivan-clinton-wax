@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<div class='exhibit-meta'>
+  <h1 class='exhibit-title'>{{ page.title }}</h1>
+  {% assign author = site.authors | where: 'short_name', page.author | first %}
+  {% if author %}
+    By <strong><a href="{{ author.url }}">{{ author.name }}</a></strong>
+  {% endif %}
+  <p class='exhibit-date' >Published on
+    <time datetime='{{ page.publish_date | date_to_xmlschema }}'>
+    {{ page.publish_date | date: "%A, %B %d, %Y" }}
+    </time>
+  </p>
+
+</div>
+
+{{ content }}
+
+
+  
+<nav aria-label="Adjacent Posts">
+  <ul style="list-style-type:none">
+    {% if page.previous.url %}
+      <li>
+        <a href="{{page.previous.url}}" rel="prev">&laquo; {{page.previous.title}}</a>
+      </li>
+    {% endif %}
+    {% if page.next.url %}
+      <li>
+        <a href="{{page.next.url}}" rel="next">{{page.next.title}} &raquo;</a>
+      </li>
+    {% endif %}
+  </ul>
+</nav>

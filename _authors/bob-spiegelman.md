@@ -4,4 +4,4 @@ name: 'Robert Spiegelman'
 position: Project Director
 permalink: /authors/bob-spiegelman/
 ---
-Lear more at [bio](/bio/)
+Learn more at [bio](/bio/)

@@ -431,7 +431,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj34/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj34/thumbnail.jpg",
     "permalink": "/visual-gallery/obj34",
     "lunr_id": 70
   },
@@ -444,7 +444,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj65/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj65/thumbnail.jpg",
     "permalink": "/visual-gallery/obj65",
     "lunr_id": 71
   },
@@ -457,7 +457,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj96/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj96/thumbnail.jpg",
     "permalink": "/visual-gallery/obj96",
     "lunr_id": 72
   },
@@ -470,7 +470,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj51/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj51/thumbnail.jpg",
     "permalink": "/visual-gallery/obj51",
     "lunr_id": 73
   },
@@ -483,7 +483,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj101/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj101/thumbnail.jpg",
     "permalink": "/visual-gallery/obj101",
     "lunr_id": 74
   },
@@ -496,7 +496,7 @@ layout: none
     "object_type": "composite",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj5/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj5/thumbnail.jpg",
     "permalink": "/visual-gallery/obj5",
     "lunr_id": 75
   },
@@ -509,7 +509,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj111/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj111/thumbnail.jpg",
     "permalink": "/visual-gallery/obj111",
     "lunr_id": 76
   },
@@ -522,7 +522,7 @@ layout: none
     "object_type": "watches",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj10/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj10/thumbnail.jpg",
     "permalink": "/visual-gallery/obj10",
     "lunr_id": 77
   },
@@ -535,7 +535,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj41/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj41/thumbnail.jpg",
     "permalink": "/visual-gallery/obj41",
     "lunr_id": 78
   },
@@ -548,7 +548,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj86/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj86/thumbnail.jpg",
     "permalink": "/visual-gallery/obj86",
     "lunr_id": 79
   },
@@ -561,7 +561,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj75/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj75/thumbnail.jpg",
     "permalink": "/visual-gallery/obj75",
     "lunr_id": 80
   },
@@ -574,7 +574,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj24/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj24/thumbnail.jpg",
     "permalink": "/visual-gallery/obj24",
     "lunr_id": 81
   },
@@ -587,7 +587,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj55/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj55/thumbnail.jpg",
     "permalink": "/visual-gallery/obj55",
     "lunr_id": 82
   },
@@ -600,7 +600,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj61/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj61/thumbnail.jpg",
     "permalink": "/visual-gallery/obj61",
     "lunr_id": 83
   },
@@ -613,7 +613,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj30/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj30/thumbnail.jpg",
     "permalink": "/visual-gallery/obj30",
     "lunr_id": 84
   },
@@ -626,7 +626,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj92/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj92/thumbnail.jpg",
     "permalink": "/visual-gallery/obj92",
     "lunr_id": 85
   },
@@ -639,7 +639,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj105/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj105/thumbnail.jpg",
     "permalink": "/visual-gallery/obj105",
     "lunr_id": 86
   },
@@ -652,7 +652,7 @@ layout: none
     "object_type": "painting",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj1_01/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj1_01/thumbnail.jpg",
     "permalink": "/visual-gallery/obj1",
     "lunr_id": 87
   },
@@ -665,7 +665,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj115/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj115/thumbnail.jpg",
     "permalink": "/visual-gallery/obj115",
     "lunr_id": 88
   },
@@ -678,7 +678,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj121/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj121/thumbnail.jpg",
     "permalink": "/visual-gallery/obj121",
     "lunr_id": 89
   },
@@ -691,7 +691,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj82/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj82/thumbnail.jpg",
     "permalink": "/visual-gallery/obj82",
     "lunr_id": 90
   },
@@ -704,7 +704,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj20/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj20/thumbnail.jpg",
     "permalink": "/visual-gallery/obj20",
     "lunr_id": 91
   },
@@ -717,7 +717,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj71/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj71/thumbnail.jpg",
     "permalink": "/visual-gallery/obj71",
     "lunr_id": 92
   },
@@ -730,7 +730,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj45/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj45/thumbnail.jpg",
     "permalink": "/visual-gallery/obj45",
     "lunr_id": 93
   },
@@ -743,7 +743,7 @@ layout: none
     "object_type": "painting",
     "current_location": "Wadsworth Atheneum, Hartford, Connecticut, USA",
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj14/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj14/thumbnail.jpg",
     "permalink": "/visual-gallery/obj14",
     "lunr_id": 94
   },
@@ -756,7 +756,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj54/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj54/thumbnail.jpg",
     "permalink": "/visual-gallery/obj54",
     "lunr_id": 95
   },
@@ -769,7 +769,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj60/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj60/thumbnail.jpg",
     "permalink": "/visual-gallery/obj60",
     "lunr_id": 96
   },
@@ -782,7 +782,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj31/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj31/thumbnail.jpg",
     "permalink": "/visual-gallery/obj31",
     "lunr_id": 97
   },
@@ -795,7 +795,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj93/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj93/thumbnail.jpg",
     "permalink": "/visual-gallery/obj93",
     "lunr_id": 98
   },
@@ -808,7 +808,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj104/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj104/thumbnail.jpg",
     "permalink": "/visual-gallery/obj104",
     "lunr_id": 99
   },
@@ -821,7 +821,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj114/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj114/thumbnail.jpg",
     "permalink": "/visual-gallery/obj114",
     "lunr_id": 100
   },
@@ -834,7 +834,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj120/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj120/thumbnail.jpg",
     "permalink": "/visual-gallery/obj120",
     "lunr_id": 101
   },
@@ -847,7 +847,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj83/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj83/thumbnail.jpg",
     "permalink": "/visual-gallery/obj83",
     "lunr_id": 102
   },
@@ -860,7 +860,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj21/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj21/thumbnail.jpg",
     "permalink": "/visual-gallery/obj21",
     "lunr_id": 103
   },
@@ -873,7 +873,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj70/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj70/thumbnail.jpg",
     "permalink": "/visual-gallery/obj70",
     "lunr_id": 104
   },
@@ -886,7 +886,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj44/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj44/thumbnail.jpg",
     "permalink": "/visual-gallery/obj44",
     "lunr_id": 105
   },
@@ -899,7 +899,7 @@ layout: none
     "object_type": "painting",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj15/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj15/thumbnail.jpg",
     "permalink": "/visual-gallery/obj15",
     "lunr_id": 106
   },
@@ -912,7 +912,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj35/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj35/thumbnail.jpg",
     "permalink": "/visual-gallery/obj35",
     "lunr_id": 107
   },
@@ -925,7 +925,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj64/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj64/thumbnail.jpg",
     "permalink": "/visual-gallery/obj64",
     "lunr_id": 108
   },
@@ -938,7 +938,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj97/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj97/thumbnail.jpg",
     "permalink": "/visual-gallery/obj97",
     "lunr_id": 109
   },
@@ -951,7 +951,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj50/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj50/thumbnail.jpg",
     "permalink": "/visual-gallery/obj50",
     "lunr_id": 110
   },
@@ -964,7 +964,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj100/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj100/thumbnail.jpg",
     "permalink": "/visual-gallery/obj100",
     "lunr_id": 111
   },
@@ -977,7 +977,7 @@ layout: none
     "object_type": "composite",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj4/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj4/thumbnail.jpg",
     "permalink": "/visual-gallery/obj4",
     "lunr_id": 112
   },
@@ -990,7 +990,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj110/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj110/thumbnail.jpg",
     "permalink": "/visual-gallery/obj110",
     "lunr_id": 113
   },
@@ -1003,7 +1003,7 @@ layout: none
     "object_type": "watches",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj11/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj11/thumbnail.jpg",
     "permalink": "/visual-gallery/obj11",
     "lunr_id": 114
   },
@@ -1016,7 +1016,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj40/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj40/thumbnail.jpg",
     "permalink": "/visual-gallery/obj40",
     "lunr_id": 115
   },
@@ -1029,7 +1029,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj87/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj87/thumbnail.jpg",
     "permalink": "/visual-gallery/obj87",
     "lunr_id": 116
   },
@@ -1042,7 +1042,7 @@ layout: none
     "object_type": "photo",
     "current_location": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA",
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj74/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj74/thumbnail.jpg",
     "permalink": "/visual-gallery/obj74",
     "lunr_id": 117
   },
@@ -1055,7 +1055,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj25/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj25/thumbnail.jpg",
     "permalink": "/visual-gallery/obj25",
     "lunr_id": 118
   },
@@ -1068,7 +1068,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj98/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj98/thumbnail.jpg",
     "permalink": "/visual-gallery/obj98",
     "lunr_id": 119
   },
@@ -1081,7 +1081,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj88/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj88/thumbnail.jpg",
     "permalink": "/visual-gallery/obj88",
     "lunr_id": 120
   },
@@ -1094,7 +1094,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj99/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj99/thumbnail.jpg",
     "permalink": "/visual-gallery/obj99",
     "lunr_id": 121
   },
@@ -1107,7 +1107,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj89/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj89/thumbnail.jpg",
     "permalink": "/visual-gallery/obj89",
     "lunr_id": 122
   },
@@ -1120,7 +1120,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj38/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj38/thumbnail.jpg",
     "permalink": "/visual-gallery/obj38",
     "lunr_id": 123
   },
@@ -1133,7 +1133,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj69/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj69/thumbnail.jpg",
     "permalink": "/visual-gallery/obj69",
     "lunr_id": 124
   },
@@ -1146,7 +1146,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj79/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj79/thumbnail.jpg",
     "permalink": "/visual-gallery/obj79",
     "lunr_id": 125
   },
@@ -1159,7 +1159,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj28/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj28/thumbnail.jpg",
     "permalink": "/visual-gallery/obj28",
     "lunr_id": 126
   },
@@ -1172,7 +1172,7 @@ layout: none
     "object_type": "composite",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj9/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj9/thumbnail.jpg",
     "permalink": "/visual-gallery/obj9",
     "lunr_id": 127
   },
@@ -1185,7 +1185,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj109/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj109/thumbnail.jpg",
     "permalink": "/visual-gallery/obj109",
     "lunr_id": 128
   },
@@ -1198,7 +1198,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj59/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj59/thumbnail.jpg",
     "permalink": "/visual-gallery/obj59",
     "lunr_id": 129
   },
@@ -1211,7 +1211,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj49/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj49/thumbnail.jpg",
     "permalink": "/visual-gallery/obj49",
     "lunr_id": 130
   },
@@ -1224,7 +1224,7 @@ layout: none
     "object_type": "map",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj18/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj18/thumbnail.jpg",
     "permalink": "/visual-gallery/obj18",
     "lunr_id": 131
   },
@@ -1237,7 +1237,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj119/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj119/thumbnail.jpg",
     "permalink": "/visual-gallery/obj119",
     "lunr_id": 132
   },
@@ -1250,7 +1250,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj108/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj108/thumbnail.jpg",
     "permalink": "/visual-gallery/obj108",
     "lunr_id": 133
   },
@@ -1263,7 +1263,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj58/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj58/thumbnail.jpg",
     "permalink": "/visual-gallery/obj58",
     "lunr_id": 134
   },
@@ -1276,7 +1276,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj48/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj48/thumbnail.jpg",
     "permalink": "/visual-gallery/obj48",
     "lunr_id": 135
   },
@@ -1289,7 +1289,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj19/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj19/thumbnail.jpg",
     "permalink": "/visual-gallery/obj19",
     "lunr_id": 136
   },
@@ -1302,7 +1302,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj118/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj118/thumbnail.jpg",
     "permalink": "/visual-gallery/obj118",
     "lunr_id": 137
   },
@@ -1315,7 +1315,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj39/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj39/thumbnail.jpg",
     "permalink": "/visual-gallery/obj39",
     "lunr_id": 138
   },
@@ -1328,7 +1328,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj68/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj68/thumbnail.jpg",
     "permalink": "/visual-gallery/obj68",
     "lunr_id": 139
   },
@@ -1341,7 +1341,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj78/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj78/thumbnail.jpg",
     "permalink": "/visual-gallery/obj78",
     "lunr_id": 140
   },
@@ -1354,7 +1354,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj29/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj29/thumbnail.jpg",
     "permalink": "/visual-gallery/obj29",
     "lunr_id": 141
   },
@@ -1367,7 +1367,7 @@ layout: none
     "object_type": "composite",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj8/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj8/thumbnail.jpg",
     "permalink": "/visual-gallery/obj8",
     "lunr_id": 142
   },
@@ -1380,7 +1380,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj57/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj57/thumbnail.jpg",
     "permalink": "/visual-gallery/obj57",
     "lunr_id": 143
   },
@@ -1393,7 +1393,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj90/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj90/thumbnail.jpg",
     "permalink": "/visual-gallery/obj90",
     "lunr_id": 144
   },
@@ -1406,7 +1406,7 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj32/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj32/thumbnail.jpg",
     "permalink": "/visual-gallery/obj32",
     "lunr_id": 145
   },
@@ -1419,22 +1419,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": null,
+    "thumbnail": "img/derivatives/simple/obj63/thumbnail.jpg",
     "permalink": "/visual-gallery/obj63",
     "lunr_id": 146
-  },
-  {
-    "pid": "obj107",
-    "artist": null,
-    "location": null,
-    "label": "From the 5th Iroquois Biennial",
-    "_date": "4/30/06",
-    "object_type": "photo",
-    "current_location": null,
-    "collection": "visual-gallery",
-    "thumbnail": null,
-    "permalink": "/visual-gallery/obj107",
-    "lunr_id": 147
   },
   {
     "pid": "obj117",
@@ -1445,9 +1432,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj117/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj117/thumbnail.jpg",
     "permalink": "/visual-gallery/obj117",
-    "lunr_id": 148
+    "lunr_id": 147
   },
   {
     "pid": "obj3",
@@ -1458,9 +1445,9 @@ layout: none
     "object_type": "composite",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj3/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj3/thumbnail.jpg",
     "permalink": "/visual-gallery/obj3",
-    "lunr_id": 149
+    "lunr_id": 148
   },
   {
     "pid": "obj123",
@@ -1471,9 +1458,9 @@ layout: none
     "object_type": "print",
     "current_location": "The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Print Collection, The New York Public Library",
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj123/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj123/thumbnail.jpg",
     "permalink": "/visual-gallery/obj123",
-    "lunr_id": 150
+    "lunr_id": 149
   },
   {
     "pid": "obj73",
@@ -1484,9 +1471,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj73/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj73/thumbnail.jpg",
     "permalink": "/visual-gallery/obj73",
-    "lunr_id": 151
+    "lunr_id": 150
   },
   {
     "pid": "obj22",
@@ -1497,9 +1484,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj22/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj22/thumbnail.jpg",
     "permalink": "/visual-gallery/obj22",
-    "lunr_id": 152
+    "lunr_id": 151
   },
   {
     "pid": "obj80",
@@ -1510,9 +1497,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj80/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj80/thumbnail.jpg",
     "permalink": "/visual-gallery/obj80",
-    "lunr_id": 153
+    "lunr_id": 152
   },
   {
     "pid": "obj16",
@@ -1523,9 +1510,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj16/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj16/thumbnail.jpg",
     "permalink": "/visual-gallery/obj16",
-    "lunr_id": 154
+    "lunr_id": 153
   },
   {
     "pid": "obj47",
@@ -1536,9 +1523,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj47/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj47/thumbnail.jpg",
     "permalink": "/visual-gallery/obj47",
-    "lunr_id": 155
+    "lunr_id": 154
   },
   {
     "pid": "obj94",
@@ -1549,9 +1536,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj94/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj94/thumbnail.jpg",
     "permalink": "/visual-gallery/obj94",
-    "lunr_id": 156
+    "lunr_id": 155
   },
   {
     "pid": "obj67",
@@ -1562,9 +1549,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj67/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj67/thumbnail.jpg",
     "permalink": "/visual-gallery/obj67",
-    "lunr_id": 157
+    "lunr_id": 156
   },
   {
     "pid": "obj36",
@@ -1575,9 +1562,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj36/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj36/thumbnail.jpg",
     "permalink": "/visual-gallery/obj36",
-    "lunr_id": 158
+    "lunr_id": 157
   },
   {
     "pid": "obj53",
@@ -1588,9 +1575,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj53/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj53/thumbnail.jpg",
     "permalink": "/visual-gallery/obj53",
-    "lunr_id": 159
+    "lunr_id": 158
   },
   {
     "pid": "obj103",
@@ -1601,9 +1588,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj103/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj103/thumbnail.jpg",
     "permalink": "/visual-gallery/obj103",
-    "lunr_id": 160
+    "lunr_id": 159
   },
   {
     "pid": "obj113",
@@ -1614,9 +1601,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj113/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj113/thumbnail.jpg",
     "permalink": "/visual-gallery/obj113",
-    "lunr_id": 161
+    "lunr_id": 160
   },
   {
     "pid": "obj7",
@@ -1627,9 +1614,9 @@ layout: none
     "object_type": "composite",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj7/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj7/thumbnail.jpg",
     "permalink": "/visual-gallery/obj7",
-    "lunr_id": 162
+    "lunr_id": 161
   },
   {
     "pid": "obj43",
@@ -1640,9 +1627,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj43/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj43/thumbnail.jpg",
     "permalink": "/visual-gallery/obj43",
-    "lunr_id": 163
+    "lunr_id": 162
   },
   {
     "pid": "obj12",
@@ -1653,9 +1640,9 @@ layout: none
     "object_type": "painting",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj12/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj12/thumbnail.jpg",
     "permalink": "/visual-gallery/obj12",
-    "lunr_id": 164
+    "lunr_id": 163
   },
   {
     "pid": "obj26",
@@ -1666,9 +1653,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj26/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj26/thumbnail.jpg",
     "permalink": "/visual-gallery/obj26",
-    "lunr_id": 165
+    "lunr_id": 164
   },
   {
     "pid": "obj77",
@@ -1679,9 +1666,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj77/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj77/thumbnail.jpg",
     "permalink": "/visual-gallery/obj77",
-    "lunr_id": 166
+    "lunr_id": 165
   },
   {
     "pid": "obj84",
@@ -1692,9 +1679,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj84/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj84/thumbnail.jpg",
     "permalink": "/visual-gallery/obj84",
-    "lunr_id": 167
+    "lunr_id": 166
   },
   {
     "pid": "obj95",
@@ -1705,9 +1692,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj95/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj95/thumbnail.jpg",
     "permalink": "/visual-gallery/obj95",
-    "lunr_id": 168
+    "lunr_id": 167
   },
   {
     "pid": "obj66",
@@ -1718,9 +1705,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj66/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj66/thumbnail.jpg",
     "permalink": "/visual-gallery/obj66",
-    "lunr_id": 169
+    "lunr_id": 168
   },
   {
     "pid": "obj37",
@@ -1731,9 +1718,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj37/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj37/thumbnail.jpg",
     "permalink": "/visual-gallery/obj37",
-    "lunr_id": 170
+    "lunr_id": 169
   },
   {
     "pid": "obj52",
@@ -1744,9 +1731,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj52/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj52/thumbnail.jpg",
     "permalink": "/visual-gallery/obj52",
-    "lunr_id": 171
+    "lunr_id": 170
   },
   {
     "pid": "obj102",
@@ -1759,7 +1746,7 @@ layout: none
     "collection": "visual-gallery",
     "thumbnail": null,
     "permalink": "/visual-gallery/obj102",
-    "lunr_id": 172
+    "lunr_id": 171
   },
   {
     "pid": "obj112",
@@ -1770,9 +1757,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj112/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj112/thumbnail.jpg",
     "permalink": "/visual-gallery/obj112",
-    "lunr_id": 173
+    "lunr_id": 172
   },
   {
     "pid": "obj6",
@@ -1783,9 +1770,9 @@ layout: none
     "object_type": "composite",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj6/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj6/thumbnail.jpg",
     "permalink": "/visual-gallery/obj6",
-    "lunr_id": 174
+    "lunr_id": 173
   },
   {
     "pid": "obj42",
@@ -1796,9 +1783,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj42/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj42/thumbnail.jpg",
     "permalink": "/visual-gallery/obj42",
-    "lunr_id": 175
+    "lunr_id": 174
   },
   {
     "pid": "obj13",
@@ -1809,9 +1796,9 @@ layout: none
     "object_type": "painting",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj13/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj13/thumbnail.jpg",
     "permalink": "/visual-gallery/obj13",
-    "lunr_id": 176
+    "lunr_id": 175
   },
   {
     "pid": "obj27",
@@ -1822,9 +1809,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj27/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj27/thumbnail.jpg",
     "permalink": "/visual-gallery/obj27",
-    "lunr_id": 177
+    "lunr_id": 176
   },
   {
     "pid": "obj76",
@@ -1835,9 +1822,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj76/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj76/thumbnail.jpg",
     "permalink": "/visual-gallery/obj76",
-    "lunr_id": 178
+    "lunr_id": 177
   },
   {
     "pid": "obj85",
@@ -1848,9 +1835,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj85/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj85/thumbnail.jpg",
     "permalink": "/visual-gallery/obj85",
-    "lunr_id": 179
+    "lunr_id": 178
   },
   {
     "pid": "obj56",
@@ -1861,9 +1848,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj56/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj56/thumbnail.jpg",
     "permalink": "/visual-gallery/obj56",
-    "lunr_id": 180
+    "lunr_id": 179
   },
   {
     "pid": "obj91",
@@ -1874,9 +1861,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj91/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj91/thumbnail.jpg",
     "permalink": "/visual-gallery/obj91",
-    "lunr_id": 181
+    "lunr_id": 180
   },
   {
     "pid": "obj33",
@@ -1887,9 +1874,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj33/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj33/thumbnail.jpg",
     "permalink": "/visual-gallery/obj33",
-    "lunr_id": 182
+    "lunr_id": 181
   },
   {
     "pid": "obj62",
@@ -1900,9 +1887,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj62/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj62/thumbnail.jpg",
     "permalink": "/visual-gallery/obj62",
-    "lunr_id": 183
+    "lunr_id": 182
   },
   {
     "pid": "obj106",
@@ -1913,9 +1900,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj106/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj106/thumbnail.jpg",
     "permalink": "/visual-gallery/obj106",
-    "lunr_id": 184
+    "lunr_id": 183
   },
   {
     "pid": "obj116",
@@ -1926,9 +1913,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj116/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj116/thumbnail.jpg",
     "permalink": "/visual-gallery/obj116",
-    "lunr_id": 185
+    "lunr_id": 184
   },
   {
     "pid": "obj2",
@@ -1939,9 +1926,9 @@ layout: none
     "object_type": "painting",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj2/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj2/thumbnail.jpg",
     "permalink": "/visual-gallery/obj2",
-    "lunr_id": 186
+    "lunr_id": 185
   },
   {
     "pid": "obj122",
@@ -1952,9 +1939,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj122/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj122/thumbnail.jpg",
     "permalink": "/visual-gallery/obj122",
-    "lunr_id": 187
+    "lunr_id": 186
   },
   {
     "pid": "obj72",
@@ -1965,9 +1952,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj72/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj72/thumbnail.jpg",
     "permalink": "/visual-gallery/obj72",
-    "lunr_id": 188
+    "lunr_id": 187
   },
   {
     "pid": "obj23",
@@ -1978,9 +1965,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj23/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj23/thumbnail.jpg",
     "permalink": "/visual-gallery/obj23",
-    "lunr_id": 189
+    "lunr_id": 188
   },
   {
     "pid": "obj81",
@@ -1991,9 +1978,9 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj81/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj81/thumbnail.jpg",
     "permalink": "/visual-gallery/obj81",
-    "lunr_id": 190
+    "lunr_id": 189
   },
   {
     "pid": "obj17",
@@ -2004,9 +1991,9 @@ layout: none
     "object_type": "painting",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj17/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj17/thumbnail.jpg",
     "permalink": "/visual-gallery/obj17",
-    "lunr_id": 191
+    "lunr_id": 190
   },
   {
     "pid": "obj46",
@@ -2017,8 +2004,8 @@ layout: none
     "object_type": "photo",
     "current_location": null,
     "collection": "visual-gallery",
-    "thumbnail": "/img/derivatives/simple/obj46/thumbnail.jpg",
+    "thumbnail": "img/derivatives/simple/obj46/thumbnail.jpg",
     "permalink": "/visual-gallery/obj46",
-    "lunr_id": 192
+    "lunr_id": 191
   }
 ]

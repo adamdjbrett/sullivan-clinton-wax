@@ -1,25 +1,27 @@
 # CHANGELOG
 ## To Do
   - Use [Wax Theme](https://github.com/minicomp/wax). [Demo](https://minicomp.github.io/wax/)
-  - Add [anchor headings](https://github.com/allejo/jekyll-anchor-headings/)
-  - Add [Table of Contents](https://github.com/allejo/jekyll-toc)
   - [Breadcrumbs](https://jekyllcodex.org/without-plugin/breadcrumbs/)
   - [ReadingTime](https://jekyllcodex.org/without-plugin/reading-time-indicator/)
   - Tags/Categories
-  - Sitemap
-  - Feed
-  - Privacy Policy
-  - humans.txt
-  - find obj89 original information
-  - find obj63
-  - find obj77 and get not stretched image
-    - obj77 pano
-  - what to do about pano obj74  
-  - find obj107
+  - what do do about panoramas (74, 77) ?
   - remove obj1
-  - fix obj80
+  - setup posts to use authors, tags, Categories
+  - add categories and tags and forward and back buttons to texts and posts
 
-## Marked for deletion
+
+## Done
+- find obj89 original information
+- find obj63
+- no obj107
+- fix obj80
+- humans.txt
+- Privacy Policy
+- Sitemap
+- Feed
+- [Table of Contents](https://github.com/allejo/jekyll-toc)
+
+### Marked for deletion
   - /graphics/mappromospring.swf - dated and grainy
   - /maps/ - keeping only /mapset/
   - /maps/maps.html ~ keeping /mapset/shell.swf instead as it is more complete

@@ -10,7 +10,7 @@ source:
 order: '63'
 layout: gallery_item
 collection: visual-gallery
-thumbnail: 
-full: 
+thumbnail: /img/derivatives/simple/obj63/thumbnail.jpg
+full: /img/derivatives/simple/obj63/full.jpg
 manifest: 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What is the Sullivan/Clinton Campaign?
+title: 'What is the Sullivan/Clinton Campaign?'
 permalink: /about/
 ---
 **SULLIVAN/CLINTON** is an _essential_ journey. It's not for the faint of heart, nor the stubborn of mind. It's a major event in our history that's been way off the radar screen for far too long. More road signs than any NY event, yet not in our school books. But just as America undergoes historic changes, the lessons of Sullivan/ Clinton are more relevant than ever. So, read on below. Browse our 14 great photo GALLERIES. Enjoy the A/V Images & VIDEO. Search through the eye-popping info in our TEXTS. Jump into our MAP. And enter your own COMMENTS! Come learn - _at your own pace_. Do your Research here. Then come back again for more, as we _continually_ update this living website...
