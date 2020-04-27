@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 'Sullivan-Clinton Campaign, a short video'
 date: '2005-06-13'
 author: bob-spiegelman

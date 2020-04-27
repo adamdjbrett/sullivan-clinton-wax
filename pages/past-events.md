@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 'Past Events Pre 2008'
 date: '2008-06-13'
 image: /images/headers/sky.jpg

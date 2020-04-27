@@ -1,5 +1,6 @@
 ---
 layout: page
+layout: page
 title: Credits
 date: '2020-04-12'
 author: bob-spiegelman

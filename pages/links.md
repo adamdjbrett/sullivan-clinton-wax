@@ -1,4 +1,5 @@
 ---
+layout: page
 title: links
 date: '2005-06-13'
 image: /images/headers/sky.jpg

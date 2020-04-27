@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Staff
-permalink: /staff/
+title: Authors
+permalink: /authors/
 ---
-<h1>Staff</h1>
+<h1>Authors</h1>
 
 <ul>
   {% for author in site.authors %}

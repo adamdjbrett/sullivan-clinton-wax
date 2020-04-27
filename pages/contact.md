@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 'Contact'
 date: '2020-04-13'
 author: bob-spiegelman

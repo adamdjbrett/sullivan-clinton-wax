@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 'Audio/Visual'
 date: '2005-06-13'
 author: bob-spiegelman

@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 'MISSION STATEMENT'
 date: '2005-06-13'
 image: /images/headers/mission.jpg

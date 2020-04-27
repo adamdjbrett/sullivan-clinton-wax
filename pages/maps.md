@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Maps
 date: '2005-06-13'
 image: /images/headers/maps.jpg

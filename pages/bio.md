@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 'Bio for Bob Spiegelman'
 date: '2005-06-13'
 image: /images/headers/sky.jpg
