@@ -4,6 +4,7 @@ title: 'CLARITY & RESISTANCE'
 publish_date: 2005-01-16
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: period
 permalink: /texts/period/archives/clarity-resistance/
 redirect_from: /texts/period/archives/000123.php
 ---

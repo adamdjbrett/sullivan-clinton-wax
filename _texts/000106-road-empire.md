@@ -4,6 +4,7 @@ title: 'THE ROAD TO EMPIRE'
 publish_date: '2005-06-13'
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: blog-archive
 permalink: /archives/road-empire
 redirect_from: /archives/000106.php
 ---

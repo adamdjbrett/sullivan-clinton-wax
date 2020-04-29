@@ -4,6 +4,7 @@ title: "VICTOR’S VERSES"
 publish_date: 2004-04-05
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: period
 permalink: /texts/period/archives/victors-verses/
 redirect_from: /texts/period/archives/000053.php
 ---

@@ -4,6 +4,7 @@ title: 'ODE TO A CHOSEN PEOPLE'
 publish_date: '2005-08-25'
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: blog-archive
 permalink: /archives/ode-chosen-people/
 redirect_from: /archives/000141.php
 ---

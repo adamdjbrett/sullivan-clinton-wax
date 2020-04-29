@@ -4,6 +4,7 @@ title: 'SULLIVAN-CLINTON: A STRATEGY OF STARVATION?'
 publish_date: 2004-11-04
 image: /images/headers/sky.jpg
 author: timothy-shaw
+type: hot
 permalink: /texts/hot/archives/sullivan-clinton-starvation/
 redirect_from: /texts/hot/archives/000090.php
 ---

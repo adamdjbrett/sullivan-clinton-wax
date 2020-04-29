@@ -4,6 +4,7 @@ title: 'CIVILIZATION DEFINED'
 publish_date: 2005-12-10
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: period
 permalink: /texts/period/archives/civilization-defined/
 redirect_from: /texts/period/archives/000131.php
 ---

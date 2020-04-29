@@ -4,6 +4,7 @@ title: 'ONEIDAS: BETWEEN A ROCK & A HARD PLACE'
 publish_date: 2004-05-08
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: period
 permalink: /texts/period/archives/oneidas-rock-hard-place/
 redirect_from: /texts/period/archives/000094.php
 ---

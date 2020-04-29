@@ -4,6 +4,7 @@ title: 'SENECAS SPEAK TRUTH TO POWER'
 publish_date: 2004-07-12
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: period
 permalink: /texts/period/archives/senecas-truth-power/
 redirect_from: /texts/period/archives/000113.php
 ---

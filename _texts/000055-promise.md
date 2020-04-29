@@ -4,6 +4,7 @@ title: 'PROMISE TO KEEP'
 publish_date: 2004-04-05
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: period
 permalink: /texts/period/archives/promise/
 redirect_from: /texts/period/archives/000055.php
 ---

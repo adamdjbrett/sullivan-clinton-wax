@@ -145,6 +145,8 @@ menu:
         link: '/bio/'
       - label: 'Blog'
         link: '/blog/'
+      - label: 'Contact'
+        link: '/Contact/'
       - label: 'Credits'
         link: '/credits/'
       - label: 'Donations'
@@ -179,8 +181,7 @@ menu:
     link: '/search/'
   - label: 'Reuse'
     link: '/reuse/'
-  - label: 'Contact'
-    link: '/Contact/'
+
 
 
 # --------------------------------------------------------------
@@ -195,7 +196,7 @@ footer:
     - label: 'Credits'
       link: '/credits'
     - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
+      link: '/contact/'
   logos:
     - img: '/img/logo.png'
 

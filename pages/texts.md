@@ -24,7 +24,61 @@ _Or if, perchance, some dubious memorial of them should survive, it may be in th
 _Your corn is ripe today; mine will be so tomorrow. 'Tis profit for us both, that I shou'd labour with you today, and that you shou'd aid me tomorrow. I have no kindness for you, and know you have as little for me. I will not, therefore, take any pains upon your account; and should I labour with you upon my own account, in expectation of a return, I know I shou'd in vain depend upon your gratitude. Here then I leave you to labour alone; You treat me in the same manner. The seasons change; and both of us lose our harvests for want of mutual confidence and security._ - David Hume  
 
 
-{% assign texts = site.texts | where: 'layout','text' %}
+
+
+## Daring Texts Types
+### Facts
+{% assign texts = site.texts | where: 'type','facts' %}
+<ul>
+  {% for text in texts %}
+    <li>
+      <a href='{{ text.url | absolute_url }}'>
+        {{ text.title }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+### Period Texts
+{% assign texts = site.texts | where: 'type','period' %}
+<ul>
+  {% for text in texts %}
+    <li>
+      <a href='{{ text.url | absolute_url }}'>
+        {{ text.title }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+
+### Articles
+{% assign texts = site.texts | where: 'type','articles' %}
+<ul>
+  {% for text in texts %}
+    <li>
+      <a href='{{ text.url | absolute_url }}'>
+        {{ text.title }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+
+### Hot Topics
+{% assign texts = site.texts | where: 'type','hot' %}
+<ul>
+  {% for text in texts %}
+    <li>
+      <a href='{{ text.url | absolute_url }}'>
+        {{ text.title }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+### Blog archive
+{% assign texts = site.texts | where: 'type','blog-archive' %}
 <ul>
   {% for text in texts %}
     <li>

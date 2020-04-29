@@ -4,6 +4,7 @@ title: 'CHERRY VALLEY TRAGEDY'
 publish_date: 2004-05-22
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: period
 permalink: /texts/period/archives/cherry-valley/
 redirect_from: /texts/period/archives/000098.php
 ---

@@ -4,6 +4,7 @@ title: 'THE ERIE CANAL'
 publish_date: 2004-04-06
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: facts
 permalink: /texts/facts/archives/erie-canal/
 redirect_from: /texts/facts/archives/000060.php
 ---

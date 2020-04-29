@@ -4,6 +4,7 @@ title: 'ENGLAND IN DEFEAT: WHERE PITY MEETS PRAGMATISM'
 publish_date: 2004-07-03
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: period
 permalink: /texts/period/archives/england-defeat/
 redirect_from: /texts/period/archives/000123.php
 ---

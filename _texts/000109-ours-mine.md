@@ -4,7 +4,8 @@ title: 'OURS OR MINE?'
 publish_date: '2005-06-13'
 image: /images/headers/sky.jpg
 author: bob-spiegelman
-permal'k: /archives/ours-mine/
+type: blog-archive
+permalink: /archives/ours-mine/
 redirect_from: /archives/000109.php
 ---
 

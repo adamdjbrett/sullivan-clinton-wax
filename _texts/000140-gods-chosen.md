@@ -4,6 +4,7 @@ title: "GOD'S CHOSEN"
 publish_date: 2007-03-18
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: period
 permalink: /texts/period/archives/gods-chosen/
 redirect_from: /texts/period/archives/000140.php
 ---

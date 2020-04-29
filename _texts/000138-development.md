@@ -1,9 +1,10 @@
 ---
 layout: text
-title: 'Development?'
+title: 'DEVELOPMENT?'
 publish_date: '2007-03-18'
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: blog-archive
 permalink: /archives/development/
 redirect_from: /archives/000138.php
 ---

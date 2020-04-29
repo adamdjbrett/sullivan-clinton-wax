@@ -4,6 +4,7 @@ title: 'IN BROAD STROKES: TIMELINE/CONTEXT'
 publish_date: 2004-03-01
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: facts
 permalink: /texts/facts/archives/timeline-context/
 redirect_from: /texts/facts/archives/000125.php
 ---

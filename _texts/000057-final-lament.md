@@ -4,6 +4,7 @@ title: 'FINAL LAMENT'
 publish_date: 2004-04-05
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: period
 permalink: /texts/period/archives/final-lament/
 redirect_from: /texts/period/archives/000057.php
 ---

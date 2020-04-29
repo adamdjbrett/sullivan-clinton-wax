@@ -4,6 +4,7 @@ title: 'WYOMING VALLEY TRAGEDY'
 publish_date: 2004-04-29
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: period
 permalink: /texts/period/archives/wyoming-valley/
 redirect_from: /texts/period/archives/000089.php
 ---

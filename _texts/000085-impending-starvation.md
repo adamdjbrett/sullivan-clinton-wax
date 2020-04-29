@@ -4,6 +4,7 @@ title: 'THE AFTERMATH: IMPENDING STARVATION'
 publish_date: 2004-04-25
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: period
 permalink: /texts/period/archives/impending-starvation/
 redirect_from: /texts/period/archives/000085.php
 ---

@@ -4,6 +4,7 @@ title: 'THE IROQUOIS NATIONS'
 publish_date: 2004-04-18
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: facts
 permalink: /texts/facts/archives/iroquois-nations/
 redirect_from: /texts/facts/archives/000077.php
 ---

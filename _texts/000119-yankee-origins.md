@@ -4,6 +4,7 @@ title: 'YANKEE ORIGINS...'
 publish_date: 2004-11-20
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: period
 permalink: /texts/period/archives/yankee-origins/
 redirect_from: /texts/period/archives/000119.php
 ---

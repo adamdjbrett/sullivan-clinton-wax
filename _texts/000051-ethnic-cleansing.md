@@ -4,6 +4,7 @@ title: 'ETHNIC CLEANSING?'
 publish_date: 2004-04-5
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: period
 permalink: /texts/period/archives/ethnic-cleansing/
 redirect_from: /texts/period/archives/000051.php
 ---

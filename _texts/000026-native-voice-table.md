@@ -4,6 +4,7 @@ title: "NEW YORK’S BIG PARTY: A NATIVE VOICE AT THE TABLE"
 publish_date: 2004-03-01
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: articles
 permalink: /texts/articles/archives/native-voice-table/
 redirect_from: /texts/articles/archives/000026.php
 ---

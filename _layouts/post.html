@@ -8,18 +8,31 @@ layout: default
   {% if author %}
     By <strong><a href="{{ author.url }}">{{ author.name }}</a></strong>
   {% endif %}
-  <p class='exhibit-date' >Published on
+  <div class='exhibit-date' >Published on
     <time datetime='{{ page.publish_date | date_to_xmlschema }}'>
     {{ page.publish_date | date: "%A, %B %d, %Y" }}
     </time>
-  </p>
+  </div>
+  <div class="post-categories">
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  {% for category in categories %}
+  💼 Categories: <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+  </div>
 
 </div>
 
 {{ content }}
 
 
-  
+
+<br />
+<hr />
 <nav aria-label="Adjacent Posts">
   <ul style="list-style-type:none">
     {% if page.previous.url %}

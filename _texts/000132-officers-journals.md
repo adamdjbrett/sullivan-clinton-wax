@@ -4,6 +4,7 @@ title: 'THE OFFICERS JOURNALS!'
 publish_date: 2004-03-01
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: period
 permalink: /texts/period/archives/officers-journals/
 redirect_from: /texts/period/archives/000132.php
 ---

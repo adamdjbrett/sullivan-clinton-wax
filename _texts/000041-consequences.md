@@ -4,6 +4,7 @@ title: 'THE CONSEQUENCES'
 publish_date: 2004-03-01
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: facts
 permalink: /texts/facts/archives/consequences/
 redirect_from: /texts/facts/archives/000041.php
 ---

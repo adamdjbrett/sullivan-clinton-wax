@@ -4,6 +4,7 @@ title: "BURNING ONONDAGA, APRIL '79"
 publish_date: 2006-11-22
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: period
 permalink: /texts/period/archives/burning-onondaga/
 redirect_from: /texts/period/archives/000134.php
 ---

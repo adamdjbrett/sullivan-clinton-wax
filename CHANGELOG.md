@@ -8,6 +8,8 @@
   - remove obj1
   - setup posts to use authors, tags, Categories
   - add categories and tags and forward and back buttons to texts and posts
+    - this worked <http://stories.upthebuzzard.com/jekyll_notes/2017-02-19-prev-and-next-within-a-jekyll-collection.html>
+  - collections clickable permalinks by `type`?
 
 
 ## Done

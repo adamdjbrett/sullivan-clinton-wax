@@ -4,6 +4,7 @@ title: "SALT IN THE WOUNDS: THE MINES AT LITTLE BEARD’S TOWN"
 publish_date: 2004-11-04
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: hot
 permalink: /texts/hot/archives/salt-wounds/
 redirect_from: /texts/hot/archives/000091.php
 ---

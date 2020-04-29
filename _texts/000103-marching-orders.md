@@ -4,6 +4,7 @@ title: 'THE MARCHING ORDERS'
 publish_date: '2005-06-13'
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: blog-archive
 permalink: /archives/marching-orders/
 redirect_from:: /archives/000103.php
 ---

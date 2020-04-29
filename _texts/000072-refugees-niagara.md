@@ -4,6 +4,7 @@ title: "REFUGEES OF NIAGARA 1779-1780: *THE WINTER OF HUNGER*"
 publish_date: 2004-04-16
 image: /images/headers/sky.jpg
 author: timothy-shaw
+type: articles
 permalink: /texts/articles/archives/refugees-niagara/
 redirect_from: /texts/articles/archives/000072.php
 ---

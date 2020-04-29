@@ -4,6 +4,7 @@ title: 'RIGORS OF THE SEASON: DINNER IS SERVED, AS IROQUOIA STARVES'
 publish_date: 2005-01-03
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: period
 permalink: /texts/period/archives/rigors-season/
 redirect_from: /texts/period/archives/000122.php
 ---

@@ -4,6 +4,7 @@ title: 'SCALPS & FIREWATER'
 publish_date: 2004-05-14
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: period
 permalink: /texts/period/archives/scalps-firewater/
 redirect_from: /texts/period/archives/000096.php
 ---

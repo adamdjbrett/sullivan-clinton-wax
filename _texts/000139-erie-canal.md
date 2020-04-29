@@ -4,6 +4,7 @@ title: 'AN EERIE CANAL'
 publish_date: 2007-03-18
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: period
 permalink: /texts/period/archives/eerie-canal/
 redirect_from: /texts/period/archives/000139.php
 ---

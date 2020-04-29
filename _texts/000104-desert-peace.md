@@ -4,6 +4,7 @@ title: 'A DESERT CALLED PEACE'
 publish_date: '2005-06-13'
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: blog-archive
 permalink: /archives/desert-peace/
 redirect_from: /archives/000104.php
 ---

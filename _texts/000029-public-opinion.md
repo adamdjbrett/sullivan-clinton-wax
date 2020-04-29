@@ -4,6 +4,7 @@ title: 'PUBLIC OPINION'
 publish_date: 2004-03-01
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: facts
 permalink: /texts/facts/archives/name/
 redirect_from: /texts/facts/archives/000123.php
 ---

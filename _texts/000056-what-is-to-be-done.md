@@ -4,6 +4,7 @@ title: 'WHAT IS TO BE DONE?'
 publish_date: 2004-04-05
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: period
 permalink: /texts/period/archives/what-is-to-be-done/
 redirect_from: /texts/period/archives/000056.php
 ---

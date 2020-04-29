@@ -4,6 +4,7 @@ title: 'SULLIVAN-CLINTON 2005'
 publish_date: '2005-06-13'
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: blog-archive
 permalink: /archives/sullivan-clinton-2005/
 redirect_from: /archives/000127.php
 ---

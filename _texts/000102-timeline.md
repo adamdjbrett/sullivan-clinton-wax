@@ -4,16 +4,15 @@ title: 'TIMELINE'
 publish_date: '2005-06-13'
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: blog-archive
 permalink: /archives/timeline/
 redirect_from:: /archives/000102.php
 ---
 
 ## WHEN & WHERE: TIMELINE & MAIN EVENTS
-
 ### For the Main Events & Sites of the Sullivan/Clinton saga:
 
-
-#### A Mini-Timeline
+## A Mini-Timeline
 A Mini-Timeline The context is complex, involving: (1) the political dividing of the formerly neutral Iroquois Confederacy into pro-English (Mohawk, Seneca, Oneida and Tuscarora) and pro-Yankee nations (Oneida, Tuscarora) (1776-1779); (2) a sequence of reciprocal raids (1778) against Yankee settlements and Indian settlements in NY and Pennsylvania; (3) the financing (1778) and authorizaton (1778 & 1779) by the rebel Congress of a grand anti-Indian expedition; (4) George Washington's abandoning, for that moment, of a 2nd grand invasion of British Canada, settling instead for "Plan B" -- the full-scale campaign (1779) against the Senecas, Cayugas, Onondagas and their Mingo and Delaware allies.
 
   - **Cherry Valley** Frontier site of a Yankee defeat on November 8, 1778, termed 'The Cherry Valley Massacre.' Its destruction became a pretext for launching Sullivan/Clinton. Settler homes were burned, 30 were killed, and 71 made prisoners. An assault on the Yankee fort killed 16 soldiers, but the British and Mohawk withdrew the next day when reinforcements arrived.

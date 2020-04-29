@@ -4,6 +4,7 @@ title: "(STILL) OPEN WOUNDS: NOLA DISPOSSESSED"
 publish_date: 2006-12-26
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: articles
 permalink: /texts/articles/archives/nola-dispossessed/
 redirect_from: /texts/articles/archives/000135.php
 ---

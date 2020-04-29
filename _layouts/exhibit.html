@@ -6,7 +6,7 @@ layout: default
   <h1 class='exhibit-title'>{{ page.title }}</h1>
   {% assign author = site.authors | where: 'short_name', page.author | first %}
   {% if author %}
-    <h2><a href="{{ author.url }}">{{ author.name }}</a></h2>
+    By <strong><a href="{{ author.url }}">{{ author.name }}</a></strong>
   {% endif %}
   <p class='exhibit-date' >Published on
     <time datetime='{{ page.publish_date | date_to_xmlschema }}'>

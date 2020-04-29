@@ -4,6 +4,7 @@ title: 'BEARING WITNESS'
 publish_date: 2005-07-19
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: period
 permalink: /texts/period/archives/bearing-witness/
 redirect_from: /texts/period/archives/000129.php
 ---

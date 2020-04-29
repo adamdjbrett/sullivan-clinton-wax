@@ -4,6 +4,7 @@ title: 'KNOW THEM NO MORE FOREVER'
 publish_date: 2004-08-04
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: period
 permalink: /texts/period/archives/know-them-no-more/
 redirect_from: /texts/period/archives/000115.php
 ---

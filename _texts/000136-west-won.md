@@ -4,6 +4,7 @@ title: 'HOW THE WEST WAS WON'
 publish_date: 2007-02-13
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: period
 permalink: /texts/period/archives/west-won/
 redirect_from: /texts/period/archives/000136.php
 ---

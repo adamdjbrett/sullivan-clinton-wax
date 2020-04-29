@@ -4,6 +4,7 @@ title: 'BIG TREE TREATY'
 publish_date: 2004-03-04
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: facts
 permalink: /texts/facts/archives/big-tree-treaty/
 redirect_from: /texts/facts/archives/000043.php
 ---

@@ -4,6 +4,7 @@ title: 'LIKE CORTEZ AND SHERMAN, BUT...'
 publish_date: 2007-02-19
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: period
 permalink: /texts/period/archives/cortez-sherman/
 redirect_from: /texts/period/archives/000137.php
 ---

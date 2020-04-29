@@ -4,6 +4,7 @@ title: 'THE CHAPLAIN PREPARES'
 publish_date: 2004-11-13
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: period
 permalink: /texts/period/archives/chplain-prepares/
 redirect_from: /texts/period/archives/000118.php
 ---

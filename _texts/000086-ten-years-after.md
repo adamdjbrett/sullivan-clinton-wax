@@ -4,6 +4,7 @@ title: 'TEN YEARS AFTER...'
 publish_date: 2004-04-29
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: period
 permalink: /texts/period/archives/ten-years-after/
 redirect_from: /texts/period/archives/000086.php
 ---

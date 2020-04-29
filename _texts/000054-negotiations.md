@@ -4,6 +4,7 @@ title: 'NO NEGOTIATIONS'
 publish_date: 2004-04-05
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: period
 permalink: /texts/period/archives/negotiations/
 redirect_from: /texts/period/archives/000054.php
 ---

@@ -4,6 +4,7 @@ title: 'TSUNAMIS, NOW & THEN'
 publish_date: '2005-06-13'
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: blog-archive
 permalink: /archives/tusnamis/
 redirect_from: /archives/000121.php
 ---

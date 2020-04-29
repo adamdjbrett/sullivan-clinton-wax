@@ -4,6 +4,7 @@ title: 'FROM THE LATE RAY FADDEN'
 publish_date: '2009-02-22'
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: blog-archive
 permalink: /archives/ray-fadden/
 redirect_from: /archives/000143.php
 ---

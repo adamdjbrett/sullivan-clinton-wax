@@ -4,6 +4,7 @@ title: 'WHITE BIRDS CRY'
 publish_date: '2005-06-13'
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: blog-archive
 permalink: /archives/white-birds
 redirect_from: /archives/000108.php
 ---

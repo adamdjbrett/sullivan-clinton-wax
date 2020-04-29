@@ -4,6 +4,7 @@ title: 'MISSION ACCOMPLISHED'
 publish_date: 2004-03-01
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: facts
 permalink: /texts/facts/archives/mission-accomplished/
 redirect_from: /texts/facts/archives/000029.php
 ---

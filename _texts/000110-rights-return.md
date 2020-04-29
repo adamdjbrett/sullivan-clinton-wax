@@ -4,6 +4,7 @@ title: RIGHTS OF RETURN
 publish_date: '2005-06-13'
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: blog-archive
 permalink: /archives/rights-return/
 redirect_from: /archives/000110.php
 ---

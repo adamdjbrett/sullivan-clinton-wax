@@ -4,6 +4,7 @@ title: 'THE THREE SISTERS MEET SENECA FOODS'
 publish_date: 2004-04-14
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: facts
 permalink: /texts/facts/archives/seneca-foods/
 redirect_from: /texts/facts/archives/000067.php
 ---

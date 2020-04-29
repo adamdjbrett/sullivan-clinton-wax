@@ -4,6 +4,7 @@ title: 'AFTER DINNER TOASTS'
 publish_date: '2005-06-13'
 image: /images/headers/sky.jpg
 author: bob-spiegelman
+type: period
 permalink: /archives/after-dinner-toasts/
 redirect_from: /archives/000126.php
 ---
