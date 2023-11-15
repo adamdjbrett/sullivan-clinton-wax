@@ -24,7 +24,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [adamdjbrett/sullivan-clinton-wax](https://github.com/adamdjbrett/sullivan-clinton-wax)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|9<br/>Tools used|11/10/23 <br/>Report generated|
+|9<br/>Tools used|11/15/23 <br/>Report generated|
 |------|------|
 </div>
 
