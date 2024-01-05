@@ -1,7 +1,8 @@
 repo_name: adamdjbrett/sullivan-clinton-wax
 report_id: 6245b0ea7b5487d679dcb3e01cca9e9d
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-15T03:24:52+00:00'
+timestamp: '2024-01-05T08:42:47+00:00'
 requested_by: adamdjbrett
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/adamdjbrett/sullivan-clinton-wax
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/adamdjbrett/sullivan-clinton-wax
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -35,6 +38,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/adamdjbrett/sullivan-clinton-wax
   detection_source: Repo Metadata
 - name: RubyGems
   description: Easily download, install, and use ruby software packages on your system
@@ -44,6 +48,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/adamdjbrett/sullivan-clinton-wax/blob/master/wax_theme.gemspec
   detection_source: wax_theme.gemspec
   last_updated_by: Marii
   last_updated_on: 2019-04-09 20:51:43.000000000 Z
@@ -56,6 +61,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/adamdjbrett/sullivan-clinton-wax/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: mar-ii
   last_updated_on: 2018-03-13 03:31:16.000000000 Z
@@ -69,7 +75,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19495/default_8a79db3626c57c6bb46227c448ffd01861613398.png
-  detection_source_url: wax_theme.gemspec
+  detection_source_url: https://github.com/adamdjbrett/sullivan-clinton-wax/blob/master/wax_theme.gemspec
   detection_source: wax_theme.gemspec
   last_updated_by: mnyrop
   last_updated_on: 2019-06-03 15:16:38.000000000 Z
@@ -83,7 +89,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18863/default_2fe576f13c88e20e645ee0a744c045ee730bcad6.png
-  detection_source_url: wax_theme.gemspec
+  detection_source_url: https://github.com/adamdjbrett/sullivan-clinton-wax/blob/master/wax_theme.gemspec
   detection_source: wax_theme.gemspec
   last_updated_by: mnyrop
   last_updated_on: 2019-06-03 15:16:38.000000000 Z
@@ -104,7 +110,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18812/default_f582e4648f4682adb72d2b201218cda7f8e894ac.png
-  detection_source_url: wax_theme.gemspec
+  detection_source_url: https://github.com/adamdjbrett/sullivan-clinton-wax/blob/master/wax_theme.gemspec
   detection_source: wax_theme.gemspec
   last_updated_by: mnyrop
   last_updated_on: 2019-06-03 15:16:38.000000000 Z
@@ -125,6 +131,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19516/default_07037590725b871de29c1d2ebb4610950e953355.png
+  detection_source_url: https://github.com/adamdjbrett/sullivan-clinton-wax/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: mnyrop
   last_updated_on: 2019-06-04 00:05:11.000000000 Z
