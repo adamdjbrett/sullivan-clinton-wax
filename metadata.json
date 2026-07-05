@@ -1,0 +1,23 @@
+---
+permalink: /metadata.json
+layout: null
+sitemap: false
+---
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://www.sullivanclinton.com/#website",
+  "name": {{ site.title | jsonify }},
+  "description": {{ site.description | jsonify }},
+  "url": "https://www.sullivanclinton.com",
+  "inLanguage": "en",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Indigenous Values Initiative",
+    "url": "https://indigenousvalues.org/"
+  },
+  "sameAs": [
+    "https://aila.ngo/",
+    "https://doctrineofdiscovery.org/"
+  ]
+}
